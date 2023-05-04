@@ -78,3 +78,5 @@ DerivedDataCache/*
 __*
 Saved/*
 .idea/*
+Plugins/Developer/RiderLink/*
+UITest.uproject.DotSettings.user
